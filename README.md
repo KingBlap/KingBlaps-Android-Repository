@@ -1,4 +1,4 @@
-# KingBlaps-repository
+# KingBlaps Android Repository
 
  Contains my Kodi Build and My Kodi Backups.
 
