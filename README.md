@@ -1,4 +1,4 @@
-# KingBlaps Public Android Repository
+# KingBlap's Public Android Repository
 
  Contains my Kodi 21.3 Builds, My Kodi Backups, And a few optional apps.
 
